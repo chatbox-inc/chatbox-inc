@@ -1,11 +1,9 @@
 # chatbox 素材
+ロゴ・ガイドライン.PDFにしたがって
+使用してください。
 
 ## フォルダ構成
 
 - luqid : 背景透過データ
 - white : 背景白マット付きデータ
-
-## size 
-
-logo_sq.png : 800 x 800 
-logo_banner : 1200 x 600 
+- black : 背景黒マット付きデータ
