@@ -1,8 +1,7 @@
 # chatbox 社内資産管理リポジトリ
 
-![https://lh6.googleusercontent.com/GdvKIgrpq64cNBzbOX4PnmzZOWYh5VqcGVcb7GSJ_30npMJqiuA4wCAP1SBmgDbZD3Kvwvq2=w1382-h1294]()
-
 ##chatbox
+
 株式会社chatboxはwebのこれからを語り合う会社です。
 
 HPアドレスはこちら→http://chatbox-inc.com/
